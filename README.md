@@ -1,1 +1,2 @@
-# MSc_Chapter1_Greenhouse
+# MSc Chapter 1: Greenhouse
+Data for greenhouse experiment
